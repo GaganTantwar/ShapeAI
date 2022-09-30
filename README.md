@@ -12,15 +12,14 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br>during these 7 days, and everything was explained from the very basics so that
  anyone with zero experience on programming can learn.
  I enjoyed these 7 days, you can well,To register for next 7 days bootcamp, visit:
- <a herf="https://www.shapeai.tech">ww.shapeai.tech</a>
+ <a herf="https://www.shapeai.tech">www.shapeai.tech</a>
  follow SHAPEAI on:
  <li><a href=
  "https://in.linkedin.com/company/shapeai">LinkedIn</a>
  <li><a herf=
- "https://www.instagram.com/shapeai/?hl=en">Instagram</a>
- <li><a
-  herf=
- "https://www.youtube.com/channel/UCTUvDLTW9meDXWcbmISPdA">Youtube</a>      
+ "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+ <li><a herf=
+ "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">Youtube</a>      
   be</a>
   <li><a herf=
   "https://github.com/shapeai">GitHub</a>      
