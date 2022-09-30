@@ -19,8 +19,7 @@ follow SHAPEAI on:
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a herf=
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a 
-herf=
+<li><a herf=
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a herf=
 "https://github.com/shapeai">GitHub</a>    
