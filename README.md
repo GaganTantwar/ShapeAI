@@ -19,7 +19,6 @@ learn a lot during these 7 days and it was an amazing experience learning with S
  <li><a herf=
  "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
  <li><a herf=
- "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu    
-  be</a>
+ "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
   <li><a herf=
   "https://github.com/shapeai">GitHub</a>      
